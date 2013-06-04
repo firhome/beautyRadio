@@ -1,4 +1,4 @@
-
+//基于jquery,还没完善,测试github
 //radio 美化
 var beautyRadio = (function() {
 
